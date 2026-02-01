@@ -118,9 +118,3 @@ A professional PowerPoint presentation was created to communicate insights to st
 1. Review SQL scripts for data cleaning and analysis  
 2. Open the Power BI file to explore interactive dashboards  
 3. Refer to the PowerPoint presentation for summarized business insights  
-
----
-
-## 👤 Author
-**Sri**  
-Aspiring Data Analyst | SQL | Power BI | Data Analytics
